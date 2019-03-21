@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+    padding: 1em;
+    border-bottom: 2px solid gray;
+}
+
+p {
+    text-align: center;
+}
+
+.gelb {
+    color: yellow;
+    background-color: black;
+}
